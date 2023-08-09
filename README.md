@@ -9,9 +9,9 @@
 <img style="margin-top: 2rem" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&duration=3000&pause=500&color=FFFFFF&center=false&width=768&height=30&lines=Hello%2C++I'm+Muneeb+Saleem!%F0%9F%91%8B;Profectional +Front+End+developer+%F0%9F%93%88+;and+React.js+Developer+%F0%9F%9A%80">
 
   
-[![Linkedin Badge](https://img.shields.io/badge/-reactdev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/react-dev/)](https://www.linkedin.com/in/muneeb-saleem/)
-[![Instagram Badge](https://img.shields.io/badge/-faisal_grizz-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/faisal_griz/)]()
-[![Gmail Badge](https://img.shields.io/badge/-tariqfaisal649@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tariqfaisal649@gmail.com)](wdeveloper426@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-reactdev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muneeb-saleem/)](https://www.linkedin.com/in/muneeb-saleem/)
+[![Instagram Badge](https://img.shields.io/badge/-faisal_grizz-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/muneebsaleem425/)]()
+[![Gmail Badge](https://img.shields.io/badge/-tariqfaisal649@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wdeveloper426@gmail.com)](wdeveloper426@gmail.com)
 
 
 
