@@ -10,7 +10,7 @@
 
   
 [![Linkedin Badge](https://img.shields.io/badge/-React.ja-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muneeb-saleem/)](https://www.linkedin.com/in/muneeb-saleem/)
-[![Instagram Badge](https://img.shields.io/badge/-Muneeb-Saleem-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/muneebsaleem425/)]()
+[![Instagram Badge](https://img.shields.io/badge/-Muneeb-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/muneebsaleem425/)]()
 [![Gmail Badge](https://img.shields.io/badge/-wdeveloper426@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wdeveloper426@gmail.com)](wdeveloper426@gmail.com)
 
 
