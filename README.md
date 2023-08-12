@@ -1,4 +1,11 @@
-<h1>Hi There I'am Muneeb  </h1>
+<
+# [ Ⓜ️ᴜɴᴇᴇʙ Saleem](https://wb3bolg.com/) [![email](https://img.shields.io/static/v1?label=Email&message=wdeveloper@gmail.com&color=blue)](https://wb3bolg.com/)&nbsp;
+<!-- https://readme-typing-svg.herokuapp.com/demo/ -->
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58a6ff&width=475&lines=Muneeb+Saleem+-+Front-End-Developer;AWS+%2F+React+%2F+Angular+%2F+Next+%2F+Tailwind" alt="Typing SVG" /></a>
+</p>
+
+
 
 <img style="margin-top: 2rem" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&duration=3000&pause=500&color=FFFFFF&center=false&width=768&height=30&lines=Hello%2C++I'm+Muneeb+Saleem!%F0%9F%91%8B;Profectional +Front+End+developer+%F0%9F%93%88+;and+React.js+Developer+%F0%9F%9A%80">
   
