@@ -2,7 +2,7 @@
 # [ Ⓜ️ᴜɴᴇᴇʙ Saleem](https://wb3bolg.com/) [![email](https://img.shields.io/static/v1?label=Email&message=wdeveloper@gmail.com&color=blue)](https://wb3bolg.com/)&nbsp;
 <!-- https://readme-typing-svg.herokuapp.com/demo/ -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58a6ff&width=475&lines=Muneeb+Saleem+-+Front-End-Developer;AWS+%2F+React+%2F+Angular+%2F+Next+%2F+Tailwind" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58a6ff&width=475&lines=Muneeb+Saleem+-+Front-End-Developer;React+%2FNode.js+%2F+Angular+%2F+Next+%2F+Tailwind" alt="Typing SVG" /></a>
 </p>
 
 
